@@ -1,0 +1,22 @@
+.item-delete-check{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 0.3em 0.5em;
+    background-color: rgb(140, 140, 140, 0.6);
+    margin-bottom: 0.5em;
+    align-items: center;
+}
+
+.item{
+    width: 90%;
+}
+
+.delete-check{
+    line-height: 2.5em;
+}
+
+.delete{
+    margin-right: 1em;
+}
